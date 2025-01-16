@@ -1,0 +1,5 @@
+.containerOfAttempts {
+    width: 50vh;
+    height: 60vh;
+    background-image: linear-gradient(yellow,red);
+}
